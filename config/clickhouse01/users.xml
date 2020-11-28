@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<company>
+    <profiles>
+        <default>
+            <max_memory_usage>10000000000</max_memory_usage>
+            <use_uncompressed_cache>0</use_uncompressed_cache>
+            <load_balancing>in_order</load_balancing>
+            <log_queries>1</log_queries>
+        </default>
+    </profiles>
+
+    <users>
+        <default>
+            <password></password>
+	    <profile>default</profile>
+            <networks>
+                <ip>::/0</ip>
+            </networks>
+            <quota>default</quota>
+        </default>
+        <lab>
+	    <password_sha256_hex>a51146d38077ff992eba84cf1d5e9b249073503eb74868699016153b031a38f7</password_sha256_hex>
+            <access_management>1</access_management>
+	    <profile>default</profile>
+            <networks>
+                <ip>::/0</ip>
+            </networks>
+            <quota>default</quota>
+            <allow_experimental_live_view>1</allow_experimental_live_view>
+        </lab>
+
+    </users>
+
+    <quotas>
+        <default>
+            <interval>
+                <duration>3600</duration>
+                <queries>0</queries>
+                <errors>0</errors>
+                <result_rows>0</result_rows>
+                <read_rows>0</read_rows>
+                <execution_time>0</execution_time>
+            </interval>
+        </default>
+    </quotas>
+</company>
