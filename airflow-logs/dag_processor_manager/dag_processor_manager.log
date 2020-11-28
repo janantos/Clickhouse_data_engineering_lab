@@ -860,3 +860,885 @@ File Path                        PID  Runtime      # DAGs    # Errors  Last Runt
 [2020-11-28 22:42:24,173] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
 [2020-11-28 22:42:25,179] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
 [2020-11-28 22:42:26,186] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:42:27,193] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:42:28,200] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:42:29,206] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:42:30,213] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:42:30,213] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:37:30.213296+00:00
+[2020-11-28 22:42:30,220] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:42:31,229] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:42:32,235] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:42:33,242] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:42:34,249] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:42:35,256] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:42:36,262] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:42:37,269] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:42:38,276] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:42:39,282] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:42:40,288] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:42:40,288] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:37:40.288740+00:00
+[2020-11-28 22:42:40,298] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:42:40,303] {dag_processing.py:1064} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tutorial.py   8957  0.00s             0          -1  1.02s           2020-11-28T22:42:40
+================================================================================
+[2020-11-28 22:42:41,307] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:42:42,314] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:42:43,321] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:42:44,326] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:42:45,333] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:42:46,340] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:42:47,345] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:42:48,352] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:42:49,357] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:42:50,364] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:42:50,364] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:37:50.364488+00:00
+[2020-11-28 22:42:50,369] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:42:51,375] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:42:52,383] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:42:53,390] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:42:54,397] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:42:55,405] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:42:56,413] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:42:57,421] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:42:58,427] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:42:59,433] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:00,439] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:43:00,440] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:38:00.440033+00:00
+[2020-11-28 22:43:00,446] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:01,452] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:02,459] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:03,465] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:04,472] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:05,479] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:06,486] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:07,493] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:08,500] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:09,507] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:10,513] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:43:10,513] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:38:10.513811+00:00
+[2020-11-28 22:43:10,521] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:10,528] {dag_processing.py:1064} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tutorial.py   9107  0.00s             0          -1  1.01s           2020-11-28T22:43:10
+================================================================================
+[2020-11-28 22:43:11,531] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:12,538] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:13,546] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:14,553] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:15,560] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:16,567] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:17,573] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:18,580] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:19,587] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:20,593] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:43:20,594] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:38:20.594128+00:00
+[2020-11-28 22:43:20,599] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:21,606] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:22,613] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:23,619] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:24,625] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:25,632] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:26,642] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:27,649] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:28,655] {dag_processing.py:939} INFO - Searching for files in /opt/airflow/dags
+[2020-11-28 22:43:28,656] {dag_processing.py:942} INFO - There are 1 files in /opt/airflow/dags
+[2020-11-28 22:43:28,667] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:29,673] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:30,680] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:43:30,680] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:38:30.680344+00:00
+[2020-11-28 22:43:30,686] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:31,692] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:32,699] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:33,706] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:34,714] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:35,721] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:36,727] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:37,734] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:38,741] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:39,748] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:40,754] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:43:40,754] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:38:40.754504+00:00
+[2020-11-28 22:43:40,760] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:40,765] {dag_processing.py:1064} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tutorial.py   9257  0.00s             0          -1  1.01s           2020-11-28T22:43:40
+================================================================================
+[2020-11-28 22:43:41,768] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:42,774] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:43,781] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:44,788] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:45,794] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:46,801] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:47,808] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:48,815] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:49,821] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:50,827] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:43:50,828] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:38:50.828329+00:00
+[2020-11-28 22:43:50,834] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:51,841] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:52,847] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:53,855] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:54,861] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:55,867] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:56,878] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:57,891] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:58,897] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:43:59,904] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:00,911] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:44:00,911] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:39:00.911676+00:00
+[2020-11-28 22:44:00,919] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:01,927] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:02,933] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:03,940] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:04,947] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:05,953] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:06,962] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:07,969] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:08,976] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:09,981] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:10,987] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:44:10,987] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:39:10.987610+00:00
+[2020-11-28 22:44:10,994] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:11,000] {dag_processing.py:1064} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tutorial.py   9407  0.00s             0          -1  1.01s           2020-11-28T22:44:10
+================================================================================
+[2020-11-28 22:44:12,003] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:13,010] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:14,017] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:15,024] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:16,031] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:17,037] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:18,043] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:19,049] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:20,056] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:21,062] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:44:21,063] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:39:21.063306+00:00
+[2020-11-28 22:44:21,069] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:22,078] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:23,083] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:24,089] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:25,096] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:26,103] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:27,110] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:28,120] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:29,129] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:30,144] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:31,150] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:44:31,150] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:39:31.150954+00:00
+[2020-11-28 22:44:31,159] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:32,168] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:33,174] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:34,182] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:35,188] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:36,194] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:37,201] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:38,210] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:39,221] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:40,231] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:41,239] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:44:41,239] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:39:41.239855+00:00
+[2020-11-28 22:44:41,244] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:41,250] {dag_processing.py:1064} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tutorial.py   9557  0.00s             0          -1  1.01s           2020-11-28T22:44:41
+================================================================================
+[2020-11-28 22:44:42,253] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:43,259] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:44,266] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:45,277] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:46,284] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:47,291] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:48,297] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:49,305] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:50,315] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:51,320] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:44:51,321] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:39:51.321226+00:00
+[2020-11-28 22:44:51,326] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:52,332] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:53,340] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:54,346] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:55,354] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:56,361] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:57,368] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:58,376] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:44:59,383] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:00,389] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:01,395] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:45:01,396] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:40:01.396091+00:00
+[2020-11-28 22:45:01,400] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:02,406] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:03,414] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:04,420] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:05,426] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:06,432] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:07,439] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:08,446] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:09,453] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:10,462] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:11,470] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:45:11,470] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:40:11.470891+00:00
+[2020-11-28 22:45:11,475] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:11,480] {dag_processing.py:1064} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tutorial.py   9707  0.00s             0          -1  1.01s           2020-11-28T22:45:11
+================================================================================
+[2020-11-28 22:45:12,483] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:13,490] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:14,497] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:15,504] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:16,511] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:17,518] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:18,525] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:19,532] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:20,539] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:21,544] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:45:21,544] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:40:21.544957+00:00
+[2020-11-28 22:45:21,549] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:22,555] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:23,561] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:24,567] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:25,574] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:26,580] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:27,586] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:28,593] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:29,600] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:30,608] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:31,616] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:45:31,616] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:40:31.616783+00:00
+[2020-11-28 22:45:31,622] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:32,629] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:33,636] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:34,643] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:35,650] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:36,658] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:37,665] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:38,671] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:39,678] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:40,684] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:41,691] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:45:41,691] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:40:41.691479+00:00
+[2020-11-28 22:45:41,697] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:41,706] {dag_processing.py:1064} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tutorial.py   9857  0.01s             0          -1  1.01s           2020-11-28T22:45:41
+================================================================================
+[2020-11-28 22:45:42,708] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:43,715] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:44,722] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:45,729] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:46,736] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:47,743] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:48,749] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:49,760] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:50,768] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:51,773] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:45:51,774] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:40:51.774153+00:00
+[2020-11-28 22:45:51,780] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:52,787] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:53,794] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:54,802] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:55,808] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:56,816] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:57,822] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:58,828] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:45:59,835] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:00,843] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:01,849] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:46:01,850] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:41:01.850103+00:00
+[2020-11-28 22:46:01,855] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:02,862] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:03,867] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:04,874] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:05,880] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:06,887] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:07,894] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:08,900] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:09,906] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:10,913] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:11,920] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:46:11,920] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:41:11.920672+00:00
+[2020-11-28 22:46:11,924] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:11,929] {dag_processing.py:1064} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tutorial.py  10007  0.00s             0          -1  1.01s           2020-11-28T22:46:11
+================================================================================
+[2020-11-28 22:46:12,932] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:13,939] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:14,946] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:15,953] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:16,960] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:17,967] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:18,974] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:19,981] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:20,988] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:21,994] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:46:21,994] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:41:21.994960+00:00
+[2020-11-28 22:46:22,000] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:23,009] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:24,015] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:25,021] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:26,027] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:27,033] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:28,043] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:29,050] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:30,056] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:31,062] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:32,068] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:46:32,069] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:41:32.069164+00:00
+[2020-11-28 22:46:32,076] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:33,084] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:34,094] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:35,107] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:36,113] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:37,120] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:38,127] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:39,136] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:40,142] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:41,149] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:42,155] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:46:42,156] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:41:42.156242+00:00
+[2020-11-28 22:46:42,163] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:42,168] {dag_processing.py:1064} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tutorial.py  10157  0.00s             0          -1  1.01s           2020-11-28T22:46:42
+================================================================================
+[2020-11-28 22:46:43,171] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:44,178] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:45,184] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:46,191] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:47,198] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:48,205] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:49,212] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:50,218] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:51,225] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:52,231] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:46:52,231] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:41:52.231460+00:00
+[2020-11-28 22:46:52,236] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:53,242] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:54,249] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:55,257] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:56,264] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:57,276] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:58,282] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:46:59,289] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:00,296] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:01,305] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:02,313] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:47:02,313] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:42:02.313380+00:00
+[2020-11-28 22:47:02,317] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:03,324] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:04,332] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:05,338] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:06,344] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:07,351] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:08,358] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:09,364] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:10,371] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:11,378] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:12,384] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:47:12,385] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:42:12.385157+00:00
+[2020-11-28 22:47:12,391] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:12,396] {dag_processing.py:1064} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tutorial.py  10307  0.00s             0          -1  1.01s           2020-11-28T22:47:12
+================================================================================
+[2020-11-28 22:47:13,399] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:14,405] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:15,411] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:16,418] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:17,427] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:18,437] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:19,447] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:20,458] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:21,469] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:22,479] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:47:22,479] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:42:22.479600+00:00
+[2020-11-28 22:47:22,488] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:23,494] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:24,500] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:25,507] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:26,514] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:27,520] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:28,527] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:29,533] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:30,539] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:31,546] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:32,552] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:47:32,553] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:42:32.553156+00:00
+[2020-11-28 22:47:32,558] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:33,564] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:34,570] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:35,576] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:36,582] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:37,590] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:38,598] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:39,604] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:40,610] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:41,616] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:42,623] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:47:42,623] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:42:42.623410+00:00
+[2020-11-28 22:47:42,628] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:42,633] {dag_processing.py:1064} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tutorial.py  10457  0.00s             0          -1  1.01s           2020-11-28T22:47:42
+================================================================================
+[2020-11-28 22:47:43,636] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:44,643] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:45,650] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:46,657] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:47,664] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:48,675] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:49,681] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:50,687] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:51,694] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:52,700] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:47:52,700] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:42:52.700445+00:00
+[2020-11-28 22:47:52,705] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:53,711] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:54,717] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:55,723] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:56,730] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:57,736] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:58,743] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:47:59,749] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:00,755] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:01,761] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:02,768] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:48:02,768] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:43:02.768591+00:00
+[2020-11-28 22:48:02,786] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:03,800] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:04,807] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:05,814] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:06,821] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:07,826] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:08,833] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:09,841] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:10,847] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:11,854] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:12,860] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:48:12,861] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:43:12.861206+00:00
+[2020-11-28 22:48:12,866] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:12,872] {dag_processing.py:1064} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tutorial.py  10607  0.00s             0          -1  1.01s           2020-11-28T22:48:12
+================================================================================
+[2020-11-28 22:48:13,876] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:14,881] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:15,887] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:16,893] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:17,899] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:18,907] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:19,913] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:20,919] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:21,925] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:22,931] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:48:22,931] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:43:22.931624+00:00
+[2020-11-28 22:48:22,936] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:23,942] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:24,949] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:25,955] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:26,963] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:27,970] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:28,976] {dag_processing.py:939} INFO - Searching for files in /opt/airflow/dags
+[2020-11-28 22:48:28,977] {dag_processing.py:942} INFO - There are 1 files in /opt/airflow/dags
+[2020-11-28 22:48:28,982] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:29,991] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:31,001] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:32,011] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:33,018] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:48:33,019] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:43:33.019296+00:00
+[2020-11-28 22:48:33,024] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:34,031] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:35,038] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:36,045] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:37,051] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:38,057] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:39,064] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:40,070] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:41,079] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:42,100] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:43,106] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:48:43,106] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:43:43.106915+00:00
+[2020-11-28 22:48:43,112] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:43,117] {dag_processing.py:1064} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tutorial.py  10757  0.00s             0          -1  1.01s           2020-11-28T22:48:43
+================================================================================
+[2020-11-28 22:48:44,120] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:45,126] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:46,133] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:47,139] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:48,145] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:49,152] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:50,159] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:51,166] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:52,173] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:53,179] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:48:53,179] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:43:53.179849+00:00
+[2020-11-28 22:48:53,184] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:54,190] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:55,197] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:56,203] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:57,214] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:58,222] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:48:59,229] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:00,237] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:01,245] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:02,252] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:03,259] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:49:03,259] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:44:03.259547+00:00
+[2020-11-28 22:49:03,265] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:04,272] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:05,278] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:06,283] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:07,290] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:08,297] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:09,303] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:10,310] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:11,316] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:12,323] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:13,329] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:49:13,329] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:44:13.329548+00:00
+[2020-11-28 22:49:13,335] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:13,340] {dag_processing.py:1064} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tutorial.py  10907  0.00s             0          -1  1.01s           2020-11-28T22:49:13
+================================================================================
+[2020-11-28 22:49:14,343] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:15,350] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:16,356] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:17,362] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:18,368] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:19,375] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:20,389] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:21,396] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:22,401] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:23,406] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:49:23,407] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:44:23.407084+00:00
+[2020-11-28 22:49:23,412] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:24,417] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:25,423] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:26,429] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:27,436] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:28,441] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:29,448] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:30,454] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:31,461] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:32,467] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:33,473] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:49:33,473] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:44:33.473896+00:00
+[2020-11-28 22:49:33,479] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:34,486] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:35,493] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:36,499] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:37,505] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:38,511] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:39,517] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:40,524] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:41,531] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:42,537] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:43,543] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:49:43,543] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:44:43.543722+00:00
+[2020-11-28 22:49:43,547] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:43,552] {dag_processing.py:1064} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tutorial.py  11057  0.00s             0          -1  1.01s           2020-11-28T22:49:43
+================================================================================
+[2020-11-28 22:49:44,555] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:45,561] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:46,568] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:47,575] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:48,582] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:49,589] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:50,595] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:51,602] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:52,609] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:53,615] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:49:53,616] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:44:53.616528+00:00
+[2020-11-28 22:49:53,621] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:54,629] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:55,637] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:56,644] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:57,651] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:58,657] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:49:59,664] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:00,671] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:01,677] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:02,683] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:03,688] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:50:03,689] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:45:03.689185+00:00
+[2020-11-28 22:50:03,694] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:04,701] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:05,708] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:06,715] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:07,722] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:08,729] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:09,735] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:10,741] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:11,748] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:12,755] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:13,761] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:50:13,761] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:45:13.761601+00:00
+[2020-11-28 22:50:13,766] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:13,771] {dag_processing.py:1064} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tutorial.py  11207  0.00s             0          -1  1.01s           2020-11-28T22:50:13
+================================================================================
+[2020-11-28 22:50:14,774] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:15,780] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:16,787] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:17,793] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:18,800] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:19,807] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:20,812] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:21,818] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:22,824] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:23,830] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:50:23,831] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:45:23.831134+00:00
+[2020-11-28 22:50:23,836] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:24,842] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:25,849] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:26,859] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:27,866] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:28,873] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:29,879] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:30,886] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:31,893] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:32,901] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:33,906] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:50:33,907] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:45:33.907295+00:00
+[2020-11-28 22:50:33,915] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:34,922] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:35,930] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:36,937] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:37,946] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:38,954] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:39,960] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:40,967] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:41,973] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:42,979] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:43,986] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:50:43,986] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:45:43.986428+00:00
+[2020-11-28 22:50:43,992] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:43,997] {dag_processing.py:1064} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tutorial.py  11357  0.00s             0          -1  1.01s           2020-11-28T22:50:43
+================================================================================
+[2020-11-28 22:50:45,002] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:46,009] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:47,015] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:48,023] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:49,030] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:50,036] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:51,042] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:52,049] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:53,055] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:54,061] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:50:54,061] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:45:54.061636+00:00
+[2020-11-28 22:50:54,067] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:55,074] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:56,081] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:57,088] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:58,094] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:50:59,101] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:00,108] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:01,114] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:02,120] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:03,128] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:04,134] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:51:04,134] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:46:04.134751+00:00
+[2020-11-28 22:51:04,139] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:05,145] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:06,152] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:07,159] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:08,166] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:09,171] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:10,178] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:11,185] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:12,191] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:13,198] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:14,204] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:51:14,205] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:46:14.205263+00:00
+[2020-11-28 22:51:14,211] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:14,216] {dag_processing.py:1064} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tutorial.py  11507  0.00s             0          -1  1.01s           2020-11-28T22:51:14
+================================================================================
+[2020-11-28 22:51:15,219] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:16,226] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:17,232] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:18,239] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:19,246] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:20,252] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:21,259] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:22,266] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:23,271] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:24,278] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:51:24,278] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:46:24.278785+00:00
+[2020-11-28 22:51:24,286] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:25,293] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:26,299] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:27,306] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:28,313] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:29,319] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:30,325] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:31,331] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:32,337] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:33,344] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:34,350] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:51:34,350] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:46:34.350377+00:00
+[2020-11-28 22:51:34,355] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:35,361] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:36,367] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:37,373] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:38,379] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:39,386] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:40,395] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:41,416] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:42,423] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:43,432] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:44,438] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:51:44,439] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:46:44.439227+00:00
+[2020-11-28 22:51:44,445] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:44,455] {dag_processing.py:1064} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tutorial.py  11657  0.01s             0          -1  1.01s           2020-11-28T22:51:44
+================================================================================
+[2020-11-28 22:51:45,458] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:46,465] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:47,471] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:48,477] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:49,484] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:50,490] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:51,497] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:52,503] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:53,509] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:54,516] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:51:54,516] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:46:54.516766+00:00
+[2020-11-28 22:51:54,522] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:55,529] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:56,535] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:57,541] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:58,548] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:51:59,554] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:52:00,559] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:52:01,566] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:52:02,571] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:52:03,578] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:52:04,584] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:52:04,584] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:47:04.584705+00:00
+[2020-11-28 22:52:04,589] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:52:05,595] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:52:06,601] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:52:07,607] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:52:08,613] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:52:09,621] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:52:10,627] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:52:11,633] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:52:12,639] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:52:13,645] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:52:14,651] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:52:14,651] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:47:14.651369+00:00
+[2020-11-28 22:52:14,655] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:52:14,660] {dag_processing.py:1064} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tutorial.py  11807  0.00s             0          -1  1.01s           2020-11-28T22:52:14
+================================================================================
+[2020-11-28 22:52:15,663] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:52:16,669] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:52:17,675] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:52:18,682] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:52:19,688] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:52:20,694] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:52:21,701] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:52:22,707] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:52:23,714] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:52:24,723] {dag_processing.py:1312} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-11-28 22:52:24,723] {dag_processing.py:1316} INFO - Failing jobs without heartbeat after 2020-11-28 22:47:24.723450+00:00
+[2020-11-28 22:52:24,728] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:52:25,734] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:52:26,741] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:52:27,747] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
+[2020-11-28 22:52:28,753] {dag_processing.py:1232} ERROR - Processor for /opt/airflow/dags/tutorial.py exited with return code 1.
