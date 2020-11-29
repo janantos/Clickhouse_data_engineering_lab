@@ -9,8 +9,8 @@
 
 #### Network config
 
-| container name    | IP Address  |
-| --------------    | ----------  |
+| container name    | IP Address  | Port |
+| --------------    | ----------  | ---- |
 | redis             | 172.23.0.20 |
 | postgres          | 172.23.0.40 |
 | zookeeper         | 172.23.0.10 |
