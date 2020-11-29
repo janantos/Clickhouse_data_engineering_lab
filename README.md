@@ -15,14 +15,14 @@
 | postgres          | 172.23.0.40 |
 | zookeeper         | 172.23.0.10 |
 | kafka01           | 172.23.0.50 |
-| jumpbox           | 172.23.0.40 |
+| jumpbox           | 172.23.0.40 | 22(2222) |
 | airflow-scheduler | 172.23.0.60 |
-| airflow-webserver | 172.23.0.61 |
-| minios3           | 172.23.0.90 |
-| clickhouse01      | 172.23.0.11 |
-| clickhouse02      | 172.23.0.12 |
-| clickhouse03      | 172.23.0.13 |
-| clickhouse04      | 172.23.0.14 |
+| airflow-webserver | 172.23.0.61 | 8080 |
+| minios3           | 172.23.0.90 | 9000 |
+| clickhouse01      | 172.23.0.11 | 9000 |
+| clickhouse02      | 172.23.0.12 | 9000 |
+| clickhouse03      | 172.23.0.13 | 9000 |
+| clickhouse04      | 172.23.0.14 | 9000 |
 
 #### Default passwords
 ##### jumpbox
