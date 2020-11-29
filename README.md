@@ -26,16 +26,16 @@
 
 #### Default passwords
 ##### jumpbox
-username: lab
-password: lab
+username: lab  
+password: lab  
 ##### redis
-password: redis
+password: redis  
 ##### postgres
-username: postgres
-password: postgres
-database: lab
-
-username: airflow
-password: airflow
-database: airflow
+username: postgres  
+password: postgres  
+database: lab  
+  
+username: airflow  
+password: airflow  
+database: airflow  
 
