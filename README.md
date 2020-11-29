@@ -2,6 +2,7 @@
 Clickhouse Data Engineering Lab, docker compose, exposes only jumpbox ssh port on 2222.
 
 To spin up run ``` make config up ```
+For help run ``` make help ```
 
 - redis
 - clickhouse (2 shards, 2 replicas each, tiered s3 disk)
