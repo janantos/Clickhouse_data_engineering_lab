@@ -35,7 +35,5 @@ username: postgres
 password: postgres  
 database: lab  
   
-username: airflow  
-password: airflow  
-database: airflow  
+passwords can be changed in .env file
 
