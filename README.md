@@ -24,3 +24,18 @@
 | clickhouse03      | 172.23.0.13 |
 | clickhouse04      | 172.23.0.14 |
 
+#### Default passwords
+##### jumpbox
+username: lab
+password: lab
+##### redis
+password: redis
+##### postgres
+username: postgres
+password: postgres
+database: lab
+
+username: airflow
+password: airflow
+database: airflow
+
