@@ -11,10 +11,10 @@
 
 | container name    | IP Address  | Port |
 | --------------    | ----------  | ---- |
-| redis             | 172.23.0.20 |
-| postgres          | 172.23.0.40 |
-| zookeeper         | 172.23.0.10 |
-| kafka01           | 172.23.0.50 |
+| redis             | 172.23.0.20 | 6379 |
+| postgres          | 172.23.0.40 | 5432 |
+| zookeeper         | 172.23.0.10 | 2181 | 
+| kafka01           | 172.23.0.50 | 9092 |
 | jumpbox           | 172.23.0.40 | 22(2222) |
 | airflow-scheduler | 172.23.0.60 |
 | airflow-webserver | 172.23.0.61 | 8080 |
